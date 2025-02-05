@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-02-05T06:40:15.803Z",
+    "name": "CysicSwap Testnet Default Tokens",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "",
+    "keywords": [
+      "cysicswap",
+      "default",
+      "cysic"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Cysic",
+        "symbol": "WCYS",
+        "address": "0x0261d2F0199D060540C97DC13B5420d5c91A8fe9",
+        "chainId": 9000,
+        "decimals": 18,
+        "logoURI": ""
+      }
+    ]
+  }
