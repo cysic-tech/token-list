@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 1
+      "patch": 2
     },
     "logoURI": "",
     "keywords": [
@@ -19,7 +19,7 @@
         "address": "0x0261d2F0199D060540C97DC13B5420d5c91A8fe9",
         "chainId": 9000,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "http://cysic.xyz/assets/tokens/CYS.svg"
       },
          {
         "name": "tUSDT",
@@ -27,7 +27,7 @@
         "address": "0x1D94C15436EB1281b013e3C40De6d36f86b8fC2A",
         "chainId": 9000,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
       },
         {
         "name": "SCR",
@@ -35,7 +35,7 @@
         "address": "0x67AECc466e021B7C231AE8e0246e91A83Ece909e",
         "chainId": 9000,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "http://cysic.xyz/assets/tokens/veScroll.svg"
       },
         {
         "name": "ZOO",
