@@ -1,10 +1,10 @@
 {
     "timestamp": "2025-02-05T06:40:15.803Z",
-    "name": "CysicSwap Testnet Default Tokens",
+    "name": "CysicSwap Testnet Tokens",
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 3
+      "patch": 4
     },
     "logoURI": "http://cysic.xyz/assets/logo.svg",
     "keywords": [
