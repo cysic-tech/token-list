@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 5
+      "patch": 6
     },
     "logoURI": "http://cysic.xyz/assets/logo.svg",
     "keywords": [
@@ -43,7 +43,7 @@
         "address": "0x4571C5cb2643e1b201eF41a3Fb6fC71E6c54aFf3",
         "chainId": 9000,
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8025.png"
       }
     ]
   }
