@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 4
+      "patch": 5
     },
     "logoURI": "http://cysic.xyz/assets/logo.svg",
     "keywords": [
@@ -15,7 +15,7 @@
     "tokens": [
       {
         "name": "Wrapped Cysic",
-        "symbol": "WCYS",
+        "symbol": "tWCYS",
         "address": "0x0261d2F0199D060540C97DC13B5420d5c91A8fe9",
         "chainId": 9000,
         "decimals": 18,
