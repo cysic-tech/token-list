@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-02-05T06:40:15.803Z",
+    "name": "CysicSwap Default Tokens",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "",
+    "keywords": [
+      "cysicswap",
+      "default",
+      "cysic"
+    ],
+    "tokens": []
+  }
